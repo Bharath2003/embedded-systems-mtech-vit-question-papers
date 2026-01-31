@@ -31,5 +31,8 @@ can contribute by uploading scanned PDFs.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Disclaimer
-This repository is intended **only for academic reference**.
-All content belongs to the respective university and faculty.
+This repository is created strictly for academic reference.
+All question papers belong to their respective universities and faculty.
+No copyright infringement is intended.
+If any content violates policy, it will be removed upon request.
+
