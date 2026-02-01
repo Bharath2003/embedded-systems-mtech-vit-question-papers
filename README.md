@@ -36,3 +36,10 @@ All question papers belong to their respective universities and faculty.
 No copyright infringement is intended.
 If any content violates policy, it will be removed upon request.
 
+This repository provides M.Tech Embedded Systems question papers
+for VIT Vellore students, including CAT 1, CAT 2, and FAT exams.
+
+## Search keywords:
+M.Tech Embedded Systems question papers
+Embedded Programming CAT FAT papers
+VIT Embedded Systems previous year question papers
